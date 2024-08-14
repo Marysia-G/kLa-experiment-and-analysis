@@ -1,4 +1,7 @@
 # kLa-experiment-and-analysis
 
-Data analysis for research publication: 'Small Scale - Big Proble' doi:
-Abstract:
+'Small volume - big problem: culturing _Yarrowia lipolytica_ in high-throughput micro-formats' 
+
+doi: 10.1186/s12934-024-02465-3
+
+Abstract: With the current progress in the ‘design’ and ‘build’ stages of the ‘design-build-test-learn’ cycle, many synthetic biology projects become ‘test-limited’. Advances in the parallelization of microbes cultivations are of great aid, however, for many species down-scaling leaves a metabolic footprint. Yarrowia lipolytica is one such demanding yeast species, for which scaling-down inevitably leads to perturbations in phenotype development. Strictly aerobic metabolism, propensity for filamentation and adhesion to hydrophobic surfaces, spontaneous flocculation, and high acidification of media are just several characteristics that make the transfer of the micro-scale protocols developed for the other microbial species very challenging in this case. It is well recognized that without additional ‘personalized’ optimization, either MTP-based or single-cell-based protocols are useless for accurate studies of Y. lipolytica phenotypes. This review summarizes the progress in the scaling-down and parallelization of Y. lipolytica cultures, highlighting the challenges that occur most frequently and strategies for their overcoming. The problem of Y. lipolytica cultures down-scaling is illustrated by calculating the costs of micro-cultivations, and determining the unintentionally introduced, thus uncontrolled, variables. The key research into culturing Y. lipolytica in various MTP formats and micro- and pico-bioreactors is discussed. Own recently developed and carefully pre-optimized high-throughput cultivation protocol is presented, alongside the details from the optimization stage. We hope that this work will serve as a practical guide for those working with Y. lipolytica high-throughput screens.
